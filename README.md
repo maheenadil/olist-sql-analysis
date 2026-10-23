@@ -9,5 +9,5 @@ Five business questions answered with SQL (PostgreSQL) on the Olist Brazilian e-
 5. Repeat customer rate
 
 **Code:** olist_queries.sql
-**Dashboard:** [Tableau Public dashboard](https://public.tableau.com/app/profile/maheen.adil/viz/OlistE-CommerceAnalysis2016-2018/Dashboard1)
+**Dashboard:** [Tableau Public dashboard](https://public.tableau.com/views/OlistE-CommerceAnalysis2016-2018/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 **Data source:** Olist Brazilian E-Commerce Public Dataset on Kaggle
